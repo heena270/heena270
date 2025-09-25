@@ -1,6 +1,6 @@
 # Hi, I'm Heena! 👋
 
-![Profile Banner](WhatsApp Image 2025-09-26 at 01.33.28_0e226aad.jpg?text=Heena+Ansari+-+Full-Stack+Developer)
+![Profile Banner](https://github.com/heena270/heena270/blob/c3d5ab88b1fd2b64ae43bce1b27353606c14f176/WhatsApp%20Image%202025-09-26%20at%2001.33.28_0e226aad.jpg)
 
 ## About Me
 💻 Software Developer | Python Developer  
