@@ -1,6 +1,6 @@
 # Hi, I'm Heena! 👋
 
-![Profile Banner]("C:\Users\heena\Downloads\WhatsApp Image 2025-09-26 at 01.33.28_0e226aad.jpg"?text=Heena+Ansari+-+Full-Stack+Developer)
+![Profile Banner](WhatsApp Image 2025-09-26 at 01.33.28_0e226aad.jpg?text=Heena+Ansari+-+Full-Stack+Developer)
 
 ## About Me
 💻 Software Developer | Python Developer  
