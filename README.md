@@ -1,7 +1,6 @@
 # Hi, I'm Heena! 👋
 
-![Profile Banner](https://github.com/heena270/heena270/blob/c0b4fafd7914ffa02e95757e6736e7beb5bae42e/WhatsApp_Image_2025-09-26_at_01.33.28_0e226aad__1_-removebg-preview%20(1).png)
-
+![Profile Banner](https://github.com/heena270/heena270/blob/b06a755a85cc821c2f69b7d55bbc7df1c89003bf/Gemini_Generated_Image_1h6h7q1h6h7q1h6h.png)
 ## About Me
 💻 Software Developer | Python Developer  
 🌱 Learning AI & Generative AI  
